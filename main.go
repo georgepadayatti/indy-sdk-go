@@ -3,7 +3,7 @@ package main
 import (
 	"log"
 
-	"github.com/georgepadayatti/indy-wrapper/wallet"
+	"github.com/georgepadayatti/indy-sdk-go/wallet"
 )
 
 func main() {
